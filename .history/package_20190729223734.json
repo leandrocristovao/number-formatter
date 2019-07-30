@@ -1,0 +1,15 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Cristovao <leandrocristovao@gmail.com> (http://www.leandrocristovao.com.br)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
